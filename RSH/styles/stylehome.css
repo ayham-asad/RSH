@@ -1,0 +1,92 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #d4f0fc;
+    font-family: 'Inter', sans-serif;
+}
+.navbar{
+    background-color: #02a9f7;
+}
+.navbar-brand{
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+    padding-right: 50px;
+}
+.nav-title{
+    color: #fff;
+    padding-right: 40px;
+}
+.navbar-nav{
+    justify-content: space-between;
+}
+.carouselh{
+    font-size: 90px;
+    padding-bottom: 20px;
+}
+.carouselh5{
+    font-size: larger;
+    padding-bottom: 180px;
+}
+.request-banner{
+    background-color: #02a9f7;
+    color: #fff;
+}
+.fix-banner{
+    background-color: #89d6fb;
+    color: #fff;
+    margin-top: 0%;
+}
+.courses-banner{
+    background-color: #02577a;
+    color: #fff;
+}
+.back-color{
+    background-color: #d4f0fc;
+}
+#success_message{ display: none;}
+.section-image{
+    width: 50%; height:50%;
+    margin-top: 0;
+}
+.photo {
+    width: 100%;
+    height: 100%;
+    background-image: url('photo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.background{
+    background-color:#d4f0fc ;
+}
+.img-container {
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+/* Set the form to fill the remaining width */
+.form-container {
+    height: auto;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.coursessec{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+.space{
+    margin-bottom: 5%;
+}
+.card-foorte{
+    background-color: #02577a;
+}
+.form-steps{
+    margin-top: 5%;
+}
+.form-steps li{
+    margin-bottom: 5%;
+    list-style-type: none;
+}
